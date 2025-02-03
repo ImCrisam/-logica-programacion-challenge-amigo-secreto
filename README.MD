@@ -41,6 +41,4 @@
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 
----
 
-**Desarrollado por:** [Tu Nombre o Enlace a tu Perfil]
